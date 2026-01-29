@@ -2,6 +2,8 @@
 Este script simula a energização de um circuito RL e um evento 
 de curto-circuito parcial, utilizando o método de Equações de Estado
 e a integração trapezoidal para a resolução numérica
+
+test 
 """
 
 # Importação de Bibliotecas
